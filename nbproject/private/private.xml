@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp/htdocs/Demo/protected/views/question/index.php</file>
+            <file>file:/C:/xampp/htdocs/Demo/protected/views/exam/_view.php</file>
+            <file>file:/C:/xampp/htdocs/Demo/protected/views/exam/_formpreview.php</file>
+            <file>file:/C:/xampp/htdocs/Demo/protected/views/chamThi/examcode.php</file>
+            <file>file:/C:/xampp/htdocs/Demo/protected/views/exam/preview.php</file>
+            <file>file:/C:/xampp/htdocs/Demo/protected/models/Eqa.php</file>
+            <file>file:/C:/xampp/htdocs/Demo/protected/models/Exam.php</file>
+            <file>file:/C:/xampp/htdocs/Demo/protected/models/Question.php</file>
+            <file>file:/C:/xampp/htdocs/Demo/protected/views/thitructiep/result.php</file>
+            <file>file:/C:/xampp/htdocs/Demo/protected/controllers/ExamController.php</file>
+            <file>file:/C:/xampp/htdocs/Demo/protected/views/question/_form.php</file>
+            <file>file:/C:/xampp/htdocs/Demo/protected/views/chamThi/_formexamcode.php</file>
+            <file>file:/C:/xampp/htdocs/Demo/protected/controllers/ChamThiController.php</file>
+        </group>
+    </open-files>
+</project-private>

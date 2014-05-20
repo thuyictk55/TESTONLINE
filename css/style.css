@@ -1,0 +1,112 @@
+@charset "utf-8";
+
+/* HTML elements  */		
+
+	h1, h2, h3, h4, h5, h6{
+		font-weight:normal;
+		margin:0;
+		line-height:1.1em;
+		color:#000;
+		}	
+	h1{font-size:2em;margin-bottom:.5em;}	
+	h2{font-size:1.75em;margin-bottom:.5142em;padding-top:.2em;}	
+	h3{font-size:1.5em;margin-bottom:.7em;padding-top:.3em;}
+	h4{font-size:1.25em;margin-bottom:.6em;}
+	h5,h6{font-size:1em;margin-bottom:.5em;font-weight:bold;}
+	
+	p, blockquote, ul, ol, dl, form, table, pre{line-height:inherit;margin:0 0 1.5em 0;}
+	ul, ol, dl{padding:0;}
+	ul ul, ul ol, ol ol, ol ul, dd{margin:0;}
+	li{margin:0 0 0 2em;padding:0;display:list-item;list-style-position:outside;}	
+	blockquote, dd{padding:0 0 0 2em;}
+	pre, code, samp, kbd, var{font:100% mono-space,monospace;}
+	pre{overflow:auto;}
+	abbr, acronym{
+		text-transform:uppercase;
+		border-bottom:1px dotted #000;
+		letter-spacing:1px;
+		}
+	abbr[title], acronym[title]{cursor:help;}
+	small{font-size:.9em;}
+	sup, sub{font-size:.8em;}
+	em, cite, q{font-style:italic;}
+	img{border:none;}			
+	hr{display:none;}	
+	table{width:100%;border-collapse:collapse;}
+	th,caption{text-align:left;}
+	form div{margin:.5em 0;clear:both;}
+	label{display:block;}
+	fieldset{margin:0;padding:0;border:none;}
+	legend{font-weight:bold;}
+	input[type="radio"],input[type="checkbox"], .radio, .checkbox{margin:0 .25em 0 0;}
+
+/* //  HTML elements */	
+
+
+/* CSS Document */
+html, body {
+    height: 100%;
+}
+body
+{
+	font-size:14px;	
+	width: 100%;
+	margin: 0;
+    padding: 0;
+	background-image:url(../images/bg.gif);
+	background-repeat:repeat;
+}
+#header
+{
+	height:106px;
+	background-image:url(../images/bg.jpg);
+	background-repeat:repeat-x;
+}
+#logo
+{
+width:960px;
+	height: 100%;
+	margin:0 auto;
+}
+#container {
+	width:960px;
+	margin:0 auto;
+	margin-top:10px;
+	padding-top: 0px;
+	min-height: 70%;	
+    margin-bottom: -36px;
+}
+* html #container {
+	height: 100%;
+}
+#footer-spacer {
+    height: 36px;
+}
+#footer {
+	background-image:url(../images/bgfooter.jpg);
+	border-top: 1px solid #000;
+    height: 106px;
+}
+#footer .footnote {
+	border-top: 1px solid #000;
+	padding-top:50px;
+	margin-bottom:0px;
+	height: 20px;
+	color:#FFF;
+}
+a {
+    text-decoration: none;
+}
+a:link {
+    color: #666666;
+}
+a:visited {
+    color: #666666;
+}
+a:active {
+    color: #666666;
+}
+a:hover {
+    color: #000000;
+}
+/* // CSS Document */
